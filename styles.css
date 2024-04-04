@@ -63,7 +63,7 @@ h1, h2, h3, h4, p {
 }
 
 #gift-img-happy:hover {
-    background-image: url("images/happy.gif");
+    background-image: url("https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ZyNGMzMmx3b3d2ZmJiZGZkb2FvamtwZHhsOHVuOHIwdGlpOTIwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OfkGZ5H2H3f8Y/giphy.gif");
 }
 
 #gift-img-party:hover {
