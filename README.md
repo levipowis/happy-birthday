@@ -1,4 +1,4 @@
-# cobe74cb48babf3eaaa259b52
+# Happy Birthday Site
 
 Quick start:
 
